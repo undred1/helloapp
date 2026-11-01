@@ -7,5 +7,5 @@ static void GreetWhite()
 
 static void GreetBlack()
 {
-    Console.WriteLine("hello black");
+    Console.WriteLine("hello black!");
 }
