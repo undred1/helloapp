@@ -1,6 +1,6 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, everyone");
 
 static void Mama()
 {
-    Console.WriteLine("Hello, white!");
+    Console.WriteLine("Hello, everyone");
 }
